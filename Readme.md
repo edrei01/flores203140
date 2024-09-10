@@ -14,7 +14,8 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu máquina:
 1. **Clona el repositorio**:
    ```bash
    git clone https://github.com/edrei/flores203140.git
-
+2. **Intalar dependencias**:
+   mvn clean install
 
 ## Conexion base de datos
 
