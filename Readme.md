@@ -17,6 +17,8 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu máquina:
 2. **Intalar dependencias**:
    ```
     mvn clean install
+3. **Ejecucion**
+   Se ejecuta el archivo "Floreria203140PostgresApplication" ubicado en : "src\main\java\com\example\FLORERIA203140\Floreria203140PostgresApplication.java"
 
 ## Conexion base de datos
 
